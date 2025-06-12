@@ -21,6 +21,7 @@ list_of_files=[
     f"src/{project_name}/logger.py",
     f"src/{project_name}/utils.py",
     "main.py",
+    "templates/index.html"
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
