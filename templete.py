@@ -20,6 +20,8 @@ list_of_files=[
     f"src/{project_name}/exception.py",
     f"src/{project_name}/logger.py",
     f"src/{project_name}/utils.py",
+    f"src/{project_name}/__init__.py",
+
     "main.py",
     "templates/index.html"
     "config/config.yaml",
